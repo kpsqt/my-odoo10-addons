@@ -111,9 +111,8 @@ class Task(models.Model):
     
     detail_ids = fields.One2many(
         'ct_routine_task.task_detail', 'task_id', string='Details')
-    
     color = fields.Integer(string='Color Index')
-	description = fields.Text(string='Description')
+    description = fields.Text(string='Description')
     
 
 

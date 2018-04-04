@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        
+          <record id="today" model="ct_routine_task.task_stage">
+            <field name="name">Today</field>
+            <field name="sequence">0</field>
+            <field name="active">True</field>
+          </record>
+        
+          <record id="current_week" model="ct_routine_task.task_stage">
+            <field name="name">Current Week</field>
+            <field name="sequence">1</field>
+            <field name="active">True</field>
+          </record>
+        
+          <record id="current_month" model="ct_routine_task.task_stage">
+            <field name="name">Current Month</field>
+            <field name="sequence">2</field>
+            <field name="active">True</field>
+          </record>
+        
+          <record id="current_quarter" model="ct_routine_task.task_stage">
+            <field name="name">Current Quarter</field>
+            <field name="sequence">3</field>
+            <field name="active">True</field>
+          </record>
+        
+          <record id="current_year" model="ct_routine_task.task_stage">
+            <field name="name">Current Year</field>
+            <field name="sequence">4</field>
+            <field name="active">True</field>
+          </record>
+        
+    </data>
+</odoo>

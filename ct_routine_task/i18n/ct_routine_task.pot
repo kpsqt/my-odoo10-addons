@@ -1,0 +1,334 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* ct_routine_task
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-15 06:20+0000\n"
+"PO-Revision-Date: 2017-06-15 06:20+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "<span>Add details</span>"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_kanban_view
+msgid "<strong>Priority:</strong>"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_active
+msgid "Active"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_user_id
+msgid "Assigned User"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,help:ct_routine_task.act_routine_stage_all
+msgid "Click here to create new stage"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,help:ct_routine_task.act_ct_routine_task_all
+msgid "Click here to create new tasks"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_detail_edit_form
+msgid "Close"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_color
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_color
+msgid "Color Index"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.menu,name:ct_routine_task.menu_config_managements
+msgid "Configuration"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_detail_edit_form
+msgid "Course Form"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_create_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_create_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_create_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_create_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_create_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_create_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_create_date
+msgid "Created on"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.current_month
+msgid "Current Month"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.current_quarter
+msgid "Current Quarter"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.current_week
+msgid "Current Week"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.current_year
+msgid "Current Year"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_kanban_view
+msgid "Delete"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_description
+msgid "Description"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_description_display
+msgid "Description display"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_ids
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Details"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_display_name
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_display_name
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_display_name
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Edit"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_kanban_view
+msgid "Edit Task"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_fold
+msgid "Folded by Default"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_handled
+msgid "Handled at"
+msgstr ""
+
+#. module: ct_routine_task
+#: selection:ct_routine_task.task,priority:0
+msgid "High"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_id
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_id
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_id
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_id_9206
+msgid "ID"
+msgstr ""
+
+#. module: ct_routine_task
+#: code:addons/ct_routine_task/models/models.py:19
+#, python-format
+msgid "It is not allowed to change the stage of the task."
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag___last_update
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task___last_update
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail___last_update
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage___last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_write_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_write_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_write_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_write_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_write_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_write_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: ct_routine_task
+#: selection:ct_routine_task.task,priority:0
+msgid "Low"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.task_search_view
+msgid "My own tasks"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_name
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_name
+msgid "Name"
+msgstr ""
+
+#. module: ct_routine_task
+#: selection:ct_routine_task.task,priority:0
+msgid "Normal"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_priority
+msgid "Priority"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model,name:ct_routine_task.model_ct_routine_task_task
+msgid "Routine Task"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model,name:ct_routine_task.model_ct_routine_task_tag
+#: model:ir.model,name:ct_routine_task.model_ct_routine_task_task_detail
+msgid "Routine Task Tag"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_detail_edit_form
+msgid "Save"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_sequence
+msgid "Sequence"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_display
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_id
+msgid "Stage"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,name:ct_routine_task.act_routine_stage_all
+#: model:ir.ui.menu,name:ct_routine_task.menu_routine_stages_all
+msgid "Stages"
+msgstr ""
+
+#. module: ct_routine_task
+#: sql_constraint:ct_routine_task.tag:0
+msgid "Tag name already exists !"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_tag_ids
+msgid "Tags"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_task_id
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Task"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Task Form"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.menu,name:ct_routine_task.root_ct_routine_task
+msgid "Task Routine"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_name
+msgid "Task Title"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_detail_form
+msgid "Task detail form"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Task title"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,name:ct_routine_task.act_ct_routine_task_all
+#: model:ir.ui.menu,name:ct_routine_task.menu_ct_routine_tasks_task_all
+msgid "Tasks"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:res.groups,name:ct_routine_task.task_admin
+msgid "Tasks Administrator"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.ui.menu,name:ct_routine_task.menu_tasks_managements
+msgid "Tasks management"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.today
+msgid "Today"
+msgstr ""
+
+#. module: ct_routine_task
+#: selection:ct_routine_task.task,priority:0
+msgid "Very High"
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,help:ct_routine_task.act_ct_routine_task_all
+#: model:ir.actions.act_window,help:ct_routine_task.act_routine_stage_all
+msgid "You can now manage your routine tasks in order to get things done\n"
+"					efficiently."
+msgstr ""
+
+#. module: ct_routine_task
+#: model:ir.model,name:ct_routine_task.model_ct_routine_task_task_stage
+msgid "ct_routine_task.task_stage"
+msgstr ""
+

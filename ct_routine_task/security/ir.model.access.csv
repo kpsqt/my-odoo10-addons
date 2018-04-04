@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_ct_routine_task_task,ct_routine_task.task,model_ct_routine_task_task,base.group_user,1,1,1,0
+access_ct_routine_task_task_detail,ct_routine_task.task_detail,model_ct_routine_task_task_detail,base.group_user,1,1,1,0
+access_ct_routine_task_tag,ct_routine_task.tag,model_ct_routine_task_tag,base.group_user,1,1,1,0
+access_ct_routine_task_task_stage_admin,ct_routine_task.task_stage,model_ct_routine_task_task_stage,ct_routine_task.task_admin,1,1,1,1
+access_ct_routine_task_task_stage_user,ct_routine_task.task_stage,model_ct_routine_task_task_stage,base.group_user,1,0,0,0

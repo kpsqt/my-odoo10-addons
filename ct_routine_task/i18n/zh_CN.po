@@ -1,0 +1,339 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ct_routine_task
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-15 14:22+0800\n"
+"PO-Revision-Date: 2017-06-15 15:27+0800\n"
+"Last-Translator: Henry Su <henry.su@mail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 2.0.2\n"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "<span>Add details</span>"
+msgstr "<span>添加说明</span>"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_kanban_view
+msgid "<strong>Priority:</strong>"
+msgstr "<strong>优先级：</strong>"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_active
+msgid "Active"
+msgstr "有效"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_user_id
+msgid "Assigned User"
+msgstr "已分配用户"
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,help:ct_routine_task.act_routine_stage_all
+msgid "Click here to create new stage"
+msgstr "点击此处创建新阶段"
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,help:ct_routine_task.act_ct_routine_task_all
+msgid "Click here to create new tasks"
+msgstr "点击此处创建新任务"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_detail_edit_form
+msgid "Close"
+msgstr "关闭"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_color
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_color
+msgid "Color Index"
+msgstr "颜色索引"
+
+#. module: ct_routine_task
+#: model:ir.ui.menu,name:ct_routine_task.menu_config_managements
+msgid "Configuration"
+msgstr "配置"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_detail_edit_form
+msgid "Course Form"
+msgstr "Course Form"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_create_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_create_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_create_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_create_uid
+msgid "Created by"
+msgstr "创建人"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_create_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_create_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_create_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_create_date
+msgid "Created on"
+msgstr "创建时间"
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.current_month
+msgid "Current Month"
+msgstr "本月"
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.current_quarter
+msgid "Current Quarter"
+msgstr "本季"
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.current_week
+msgid "Current Week"
+msgstr "本周"
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.current_year
+msgid "Current Year"
+msgstr "本年"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_kanban_view
+msgid "Delete"
+msgstr "删除"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_description
+msgid "Description"
+msgstr "说明"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_description_display
+msgid "Description display"
+msgstr "显示说明"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_ids
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Details"
+msgstr "详细说明"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_display_name
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_display_name
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_display_name
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_display_name
+msgid "Display Name"
+msgstr "显示名称"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Edit"
+msgstr "编辑"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_kanban_view
+msgid "Edit Task"
+msgstr "编辑任务"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_fold
+msgid "Folded by Default"
+msgstr "默认折叠"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_handled
+msgid "Handled at"
+msgstr "处理时间"
+
+#. module: ct_routine_task
+#: selection:ct_routine_task.task,priority:0
+msgid "High"
+msgstr "高"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_id
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_id
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_id
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_id_9206
+msgid "ID"
+msgstr "序号"
+
+#. module: ct_routine_task
+#: code:addons/ct_routine_task/models/models.py:19
+#, python-format
+msgid "It is not allowed to change the stage of the task."
+msgstr "抱歉，无法更改任务所处的阶段。"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag___last_update
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task___last_update
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail___last_update
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage___last_update
+msgid "Last Modified on"
+msgstr "最后修改日"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_write_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_write_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_write_uid
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_write_uid
+msgid "Last Updated by"
+msgstr "最后更新人"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_write_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_write_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_write_date
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_write_date
+msgid "Last Updated on"
+msgstr "最后更新时间"
+
+#. module: ct_routine_task
+#: selection:ct_routine_task.task,priority:0
+msgid "Low"
+msgstr "低"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.task_search_view
+msgid "My own tasks"
+msgstr "我的任务"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_tag_name
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_name
+msgid "Name"
+msgstr "名字"
+
+#. module: ct_routine_task
+#: selection:ct_routine_task.task,priority:0
+msgid "Normal"
+msgstr "中"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_priority
+msgid "Priority"
+msgstr "优先级"
+
+#. module: ct_routine_task
+#: model:ir.model,name:ct_routine_task.model_ct_routine_task_task
+msgid "Routine Task"
+msgstr "例行工作"
+
+#. module: ct_routine_task
+#: model:ir.model,name:ct_routine_task.model_ct_routine_task_tag
+#: model:ir.model,name:ct_routine_task.model_ct_routine_task_task_detail
+msgid "Routine Task Tag"
+msgstr "标签"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_detail_edit_form
+msgid "Save"
+msgstr "保存"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_sequence
+msgid "Sequence"
+msgstr "序号"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_display
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_stage_id
+msgid "Stage"
+msgstr "阶段"
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,name:ct_routine_task.act_routine_stage_all
+#: model:ir.ui.menu,name:ct_routine_task.menu_routine_stages_all
+msgid "Stages"
+msgstr "阶段"
+
+#. module: ct_routine_task
+#: sql_constraint:ct_routine_task.tag:0
+msgid "Tag name already exists !"
+msgstr "标签已存在！"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_tag_ids
+msgid "Tags"
+msgstr "标签"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_detail_task_id
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Task"
+msgstr "任务"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Task Form"
+msgstr "任务表单"
+
+#. module: ct_routine_task
+#: model:ir.ui.menu,name:ct_routine_task.root_ct_routine_task
+msgid "Task Routine"
+msgstr "例行工作"
+
+#. module: ct_routine_task
+#: model:ir.model.fields,field_description:ct_routine_task.field_ct_routine_task_task_name
+msgid "Task Title"
+msgstr "任务标题"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_detail_form
+msgid "Task detail form"
+msgstr "任务详细表单"
+
+#. module: ct_routine_task
+#: model:ir.ui.view,arch_db:ct_routine_task.ct_routine_task_task_form_view
+msgid "Task title"
+msgstr "任务标题"
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,name:ct_routine_task.act_ct_routine_task_all
+#: model:ir.ui.menu,name:ct_routine_task.menu_ct_routine_tasks_task_all
+msgid "Tasks"
+msgstr "任务"
+
+#. module: ct_routine_task
+#: model:res.groups,name:ct_routine_task.task_admin
+msgid "Tasks Administrator"
+msgstr "任务管理员"
+
+#. module: ct_routine_task
+#: model:ir.ui.menu,name:ct_routine_task.menu_tasks_managements
+msgid "Tasks management"
+msgstr "任务管理"
+
+#. module: ct_routine_task
+#: model:ct_routine_task.task_stage,name:ct_routine_task.today
+msgid "Today"
+msgstr "本日"
+
+#. module: ct_routine_task
+#: selection:ct_routine_task.task,priority:0
+msgid "Very High"
+msgstr "很高"
+
+#. module: ct_routine_task
+#: model:ir.actions.act_window,help:ct_routine_task.act_ct_routine_task_all
+#: model:ir.actions.act_window,help:ct_routine_task.act_routine_stage_all
+msgid ""
+"You can now manage your routine tasks in order to get things done\n"
+"\t\t\t\t\tefficiently."
+msgstr "您现在可以编辑例行工作来高效的完成工作。"
+
+#. module: ct_routine_task
+#: model:ir.model,name:ct_routine_task.model_ct_routine_task_task_stage
+msgid "ct_routine_task.task_stage"
+msgstr "ct_routine_task.task_stage"
+
+#~ msgid "routine_task.task_stage"
+#~ msgstr "routine_task.task_stage"

@@ -113,6 +113,7 @@ class Task(models.Model):
         'ct_routine_task.task_detail', 'task_id', string='Details')
     
     color = fields.Integer(string='Color Index')
+	new_field = fields.Char(string='Just a new field')
     
 
 

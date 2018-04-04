@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Routine Tasks',
-    'version': '1.0',
+    'version': '1.1',
     'category': 'Project',
     'summary': 'Manage routine task',
     'description': """Routine Task Management""",

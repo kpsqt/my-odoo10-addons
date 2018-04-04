@@ -130,6 +130,7 @@
 							<field name="priority" />
 							<field name="stage_id" widget="selection" />
 							<field name="tag_ids" widget="many2many_tags" />
+							<field name="new_field" />
 						</group>
 						<notebook colspan="4">
 							<page string="Details" autofocus="autofocus">

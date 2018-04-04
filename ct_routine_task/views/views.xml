@@ -133,6 +133,9 @@
 							<field name="new_field" />
 						</group>
 						<notebook colspan="4">
+							<page string="Description">
+								<field name="decription" nolabel="1"/>
+							</page>
 							<page string="Details" autofocus="autofocus">
 								<p></p>
 								<field name="detail_ids">
